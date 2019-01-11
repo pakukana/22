@@ -52,11 +52,7 @@ img{
     display: flex;
 }
 
-.left btn{
-    text-align: center;
-    padding-top: 10px;
-    
-}
+
 
 .left p{
     padding-top: 5px;
@@ -84,7 +80,7 @@ img{
       padding-right: 10px;  
     }
     
-    .img1{
+    .img{
         padding-top: 100px; 
         margin-left: 50px;
         width: 300px;
