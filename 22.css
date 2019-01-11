@@ -49,14 +49,13 @@ img{
     background-color:bisque;
     width: 400px;
     height: 680px;
-    display: flex;
 }
 
 
 
 .left p{
     padding-top: 5px;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 400;
     text-align: center;
 }
